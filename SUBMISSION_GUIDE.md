@@ -20,6 +20,7 @@ Use this checklist before sharing your GitHub repository link.
 
 ## Recommended structure
 
+
 ```text
 YOUR-SIH-PROJECT/
 ├── README.md
