@@ -17,4 +17,4 @@ Replace the placeholder below with the actual file name once uploaded:
 
 ## External presentation link (only if needed)
 
-`<PASTE_GOOGLE_DRIVE_OR_ONEDRIVE_VIEW_LINK_HERE>`
+`<https://docs.google.com/presentation/d/1-2ITpQnu8MOY17BzgUQlInfq4_Ngd4Hy/edit?usp=sharing&ouid=110746780837014409811&rtpof=true&sd=true>`
